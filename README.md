@@ -8,7 +8,7 @@ For information about how to retrieve (hydrate) plain text tweets including meta
 
 Note that this corpus is free to use for the purpose of any academic research. If you do use it please make sure to cite it:
 
-Konvička, M./ Stöcker, K. (2020): *A Corpus of Because X*, URL: <https://github.com/kwossi/becauseX/edit/master/>
+Konvička, M./ Stöcker, K. (2020): *A Corpus of Because X*, URL: <https://github.com/kwossi/becauseX>
 
 Please do not hesitate to contact us for any help on the issue.
 
