@@ -1,5 +1,9 @@
 # A Corpus of Because X
 
+UPDATE: Due to changes to the Twitter API the tweets in this corpus are no longer retrievable. :( Thanks, Elon.
+
+
+
 The list of IDs you find in this repository is based on the article by Martin Konvička and Kristin Stöcker with the title '(Non-)Ellipses in Dutch, English, and German: The case of because X'.
 
 
